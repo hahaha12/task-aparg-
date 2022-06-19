@@ -1,0 +1,11 @@
+@mixin FlexSpaceBetween {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@mixin ButtonStyle {
+    padding: 1.3rem;
+    color: #292929;
+    font-size: 1.3rem;
+}

@@ -1,0 +1,1 @@
+export const calculateIntervalCount = (count:string) =>  parseInt(count)  * 1000 
